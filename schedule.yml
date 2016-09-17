@@ -1,8 +1,8 @@
 saturday:
   title: Saturday
   rooms:
-    - first floor ( EG )
     - second floor ( 1 OG )
+    - ground floor ( EG )
     - Workshop Room
   slots:
     one:
