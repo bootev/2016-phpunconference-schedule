@@ -20,15 +20,15 @@ saturday:
     three:
       time: 11:45 - 12:30
       rooms:
-        - "Talk Slot A"
-        - "Talk Slot A"
-        - "Talk Slot A"
+        - "GIT - How to unfuck"
+        - "HomeOffice - Dream for programmers"
+        - "Printing maps ( Landkarten drucken )"
     four:
       time: 12:45 - 13:30
       rooms:
-        - "Talk Slot B"
-        - "Talk Slot B"
-        - "Talk Slot B"
+        - "Hexagonal architecture"
+        - "Live coding - Acceptance codeception"
+        - "EU Datenschutz ( German privacy law )"
     five:
       time: 13:30 - 14:45
       rooms:
@@ -36,9 +36,9 @@ saturday:
     six:
       time: 14:45 - 15:30
       rooms:
-        - "Talk Slot C"
-        - "Talk Slot C"
-        - "Talk Slot C"
+        - "iBeacons in Action"
+        - "Live coding - PHPUnit and refactoring"
+        - "Painful migration paths"
     seven:
       time: 15:30 - 16:00
       rooms:
@@ -46,9 +46,9 @@ saturday:
     eight:
       time: 16:00 - 16:45
       rooms:
-        - "Talk Slot D"
-        - "Talk Slot D"
-        - "Talk Slot D"
+        - "Let technical documentation update your code"
+        - "Effective code rewrites"
+        - "Micro Services"
     nine:
       time: 17:00 - 17:30
       rooms:
@@ -60,7 +60,7 @@ saturday:
     eleven:
       time: starting 18:00
       rooms:
-        - "PHProst. Same location! Band starts at ??:??"
+        - "PHProst. Same location! Band starts at 21:00"
 sunday:
   title: Sunday
   rooms:
