@@ -64,9 +64,9 @@ saturday:
 sunday:
   title: Sunday
   rooms:
-    - first floor ( EG )
     - second floor ( 1 OG )
-    - Workshop Room
+    - ground floor ( EG )
+    - Workshop Room ( Arena )
   slots:
     first:
       time: 10:00 - 10:30
