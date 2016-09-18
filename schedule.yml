@@ -83,15 +83,15 @@ sunday:
     two:
       time: 11:30 - 12:15
       rooms:
-        - "Talk Slot A"
-        - "Talk Slot A"
-        - "Talk Slot A"
+        - "Doing REAL projects"
+        - "News of PHP 7.1"
+        - "Offlice first"
     four:
       time: 12:30 - 13:15
       rooms:
-        - "Talk Slot B"
-        - "Talk Slot B"
-        - "Talk Slot B"
+        - "Pushing the limits with React PHP ( 1 )"
+        - "Functional Tests"
+        - "Aspect oriented programming in Flow"
     five:
       time: 13:15 - 14:30
       rooms:
@@ -99,9 +99,9 @@ sunday:
     six:
       time: 14:30 - 15:15
       rooms:
-        - "Talk Slot C"
-        - "Talk Slot C"
-        - "Talk Slot C"
+        - "Pushing the limits with React PHP ( 2 )"
+        - "Modernizing with Symfony"
+        - "Architecture Kata Workshop!"
     eight:
       time: 15:45 - 16:15
       rooms:
