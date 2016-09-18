@@ -85,7 +85,7 @@ sunday:
       rooms:
         - "Doing REAL projects"
         - "News of PHP 7.1"
-        - "Offlice first"
+        - "Offline first"
     four:
       time: 12:30 - 13:15
       rooms:
